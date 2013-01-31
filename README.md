@@ -10,3 +10,5 @@ iPad2Go_die_cut - variant with round clip mounting holes.
 spectacles - a laser cut design made from PET-G sheets 1.0mm.
 
 iPadKit - a laser cut viewing stand for iPad 1-4 made from 3.0mm HDF (high density wood fibers).
+
+A5Kit - similar viewing stand for european size A5 wire-o bound 3D photo books, made with StereoBookMaker.
