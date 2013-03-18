@@ -2,7 +2,7 @@
 
 Laser cutting designs of accessories for the simple and affordable KMQ stereoscopic over/under viewing device made since 1983 from PMMA plastics.
 
-# Made from either 0.8mm PP (Polypropylen/polypropen) sheets or TEXON&reg; 1.5mm sheets (stiff celulose fabric)
+# Made from either 0.8mm PP (Polypropylen/polypropen) sheets or TEXON&reg; 1.0mm sheets (stiff celulose fabric)
 
 iPad2Go - a laser cut design made from polypropen/polypropylen sheets 0.8mm (red=cut, green=half-cut to fold).
 
